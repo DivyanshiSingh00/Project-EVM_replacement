@@ -1,5 +1,5 @@
-#Project-EVM_replacement
-###Hello everyone,
+# Project-EVM_replacement
+### Hello everyone,
 
 Our initiative seeks to transform the electoral landscape in India through the development of a secure online voting platform for the government. Citizens are required to undergo pre-registration, subject to a stringent government verification process. Upon successful verification, users receive a unique username, and access is fortified through OTP verification using their registered phone numbers.
 
